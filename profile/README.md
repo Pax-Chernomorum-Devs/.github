@@ -3,7 +3,10 @@
 
 <h1>Команда разработки Pax Chernomorum</h1>
 
-![logo_icon](https://github.com/user-attachments/assets/6027bb13-6527-4feb-a8c8-cfe02556379f)
+<!--![logo_icon](https://github.com/user-attachments/assets/6027bb13-6527-4feb-a8c8-cfe02556379f) !-->
+<!--![logo_icon](https://github.com/user-attachments/assets/1b81130d-475a-4c85-b5a9-7e582bfd0966) !-->
+<img width="256" height="256" alt="logo_icon2" src="https://github.com/user-attachments/assets/ac1c0308-87c1-4615-8599-be393bf2b11d" />
+
 
 [![Steam Workshop](https://img.shields.io/badge/Steam_Workshop-%231B2838.svg?style=for-the-badge&logo=steam&logoColor=white&color=1B2838)](https://steamcommunity.com/sharedfiles/filedetails/?id=3139202455)
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/invite/Zjr2fg33Ke)
